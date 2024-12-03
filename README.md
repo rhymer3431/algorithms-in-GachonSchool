@@ -75,9 +75,9 @@ This project involves implementing Dijkstra's algorithm to find the shortest pat
 ---
 
 ## Additional Information
-
-   - Time Complexity: \(O(N \log N + E)\)
-
+  N: domain of maze
+   - Time Complexity: \(O(N^2 \log N^2)\)
+  
 ---
 
 ## References
